@@ -1,6 +1,21 @@
 # 🚀 Claude Skills Collection
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Skills](https://img.shields.io/badge/Skills-14-blue.svg)](#-skills-disponibles)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/butlucratif/claude-skills-collection)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 Collection complète de skills pour Claude Code - parfaite pour les développeurs qui veulent optimiser leur workflow avec l'IA.
+
+## 📑 Table des Matières
+
+- [Qu'est-ce qu'un Skill ?](#-quest-ce-quun-skill-)
+- [Skills Disponibles](#-skills-disponibles)
+- [Installation](#️-installation)
+- [Comment Utiliser](#-comment-utiliser)
+- [Guide Démarrage Rapide](QUICK-START.md)
+- [Exemples Concrets](EXAMPLES.md)
+- [Contribuer](CONTRIBUTING.md)
 
 ## 📚 Qu'est-ce qu'un Skill ?
 
